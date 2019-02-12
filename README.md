@@ -1,3 +1,3 @@
-### SQL Queries
+### Code Snippets
 
-These are some of the queries used in Oracle SQL Developer to manipulate the database.
+These are some of the samples of code that was very useful. 
